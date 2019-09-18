@@ -35,6 +35,8 @@ For quantitative analysis and comparisons, we conduct another generalization abi
 | ResNet-18 + AVA | x | x |
 | ResNet-18 + GPD24K | x | x |
 
+### Online Food Photography Assistance
+TODO
 
 ### Enhancement of food photos
 ![FoodPhotoEnhancement](https://github.com/Openning07/GPA/blob/master/FoodPhotoEnhancement_PlaceHolder.jpg "Much better than the original images, and save your time from the endless attempts with existing PS tools!")
