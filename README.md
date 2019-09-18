@@ -4,7 +4,7 @@ Online photography assistance, tailored for food photograph.
 For further details, please refer to our paper [[pdf](https://www.researchgate.net/profile/Kekai_Sheng3/publication/329329757_Gourmet_photography_dataset_for_aesthetic_assessment_of_food_images/links/5c0dc00c92851c39ebe1d0f9/Gourmet-photography-dataset-for-aesthetic-assessment-of-food-images.pdf)].
 
 ## Background
-
+![HighQualityFoodPhotosIsObvious](http://chongyangma.com/publications/gp/2018_gp_thumbnail.jpg "真.秀色可餐")
 
 ## Overview
 ### Sources of food photos
