@@ -3,9 +3,15 @@ Online photography assistance, tailored for food photograph.
 
 ## Background
 
+
 ## Overview
 
+
 ## Application of GPD24K
+### Food Photograph Triage
+
+
+### Enhancement of food photos
 
 ## Citation
 If you find this useful in your research, please consider citing:
