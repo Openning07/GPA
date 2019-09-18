@@ -7,6 +7,16 @@ For further details, please refer to our paper [[pdf](https://www.researchgate.n
 
 
 ## Overview
+### Sources of food photos
+
+
+### Configuration of GPD24K
+
+|  | Train | Test | Overall |
+| | | |
+| Positive | x | x | x |
+|  | x | x | x |
+
 We will make the GPD24K dataset available as soon as possible ...
 
 ## Application of GPD24K
