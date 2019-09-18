@@ -10,7 +10,7 @@ For further details, please refer to our paper [[pdf](https://www.researchgate.n
 
 ## Overview
 ### Sources of food photos
-We collect food photos from both the online photo-sharing websites (*e.g.*, Flickr, Pinterest, 500px, Pexels) and from several existing food categorization benchmarks (*e.g.*, Food-101, ChineseFoodNet).
+We collect food photos from both the online photo-sharing websites (*e.g.*, Flickr, Pinterest, 500px, Pexels) and from several existing food categorization benchmarks (*e.g.*, Food-101, [[ChineseFoodNet](https://sites.google.com/view/chinesefoodnet/)]).
 
 ### Configuration of GPD24K
 
@@ -23,6 +23,16 @@ We collect food photos from both the online photo-sharing websites (*e.g.*, Flic
 For the convenience of file transfer, we resize the images first, and then upload the resized images on *Google Drive*:
  * [[Positive Partition (Resized)](https://drive.google.com/open?id=10VFCKLoEl3Qq10RiPW68SQ0HXMfXbcwS)]
  * [[Negative Partition (Resized)](https://drive.google.com/open?id=14rwugQ2nbpQRHN5ipyWKT7bLcAhTvIJq)]
+
+```
+ACCESS TERMS 
+Researcher has requested permission to use the GPD24K.
+In exchange for such permission, Researcher hereby agrees to the following terms and conditions:
+1. Researcher shall use the Database only for non-commercial research and educational purposes.
+2. Researcher may provide research associates and colleagues with access to the Database provided that they first agree to be bound by these terms and conditions.
+3. If Researcher is employed by a for-profit, commercial entity, Researcher's employer shall also be bound by these terms and conditions, and Researcher hereby represents that he or she is fully authorized to enter into this agreement on behalf of such employer.
+
+```
 
 #### NOTE
 In order to support further research and make aesthetic-aware applications on food photos practical, we will enlarge the scale of GPD24K and enrich the information it contains (e.g., introduce some aesthetic-related attributes). Hence, your feedback means a lot to us. Let's together make GPD24K better, and create interesting applications based on it.
