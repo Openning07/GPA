@@ -8,6 +8,13 @@ For further details, please refer to our paper [[pdf](https://www.researchgate.n
 
 ## Overview
 ### Sources of food photos
+We collect food photos from both the online photo-sharing websites and from several existing food categorization benchmarks.
+ * Flickr
+ * Pinterest
+ * 500px
+ * Pexels
+ * Food-101
+ * ChineseFoodNet
 
 ### Configuration of GPD24K
 
