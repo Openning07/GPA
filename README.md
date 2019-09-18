@@ -13,7 +13,12 @@ For further details, please refer to our paper [[pdf](https://www.researchgate.n
 ### Food Photograph Triage
 ![FoodPhotoTriage](https://github.com/Openning07/GPA/blob/master/TeaserOfSA2018.png "With the help of GPD24K, we can now enable AI to pick high-quality food photos automatically!")
 
+TODO
+
 ### Enhancement of food photos
+![FoodPhotoEnhancement](https://github.com/Openning07/GPA/blob/master/FoodPhotoEnhancement_PlaceHolder.jpg "Much better than the original images, and save your time from the endless attempts with existing PS tools!")
+
+TODO
 
 ## Citation
 If you find this useful in your research, please consider citing:
