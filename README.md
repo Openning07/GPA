@@ -25,6 +25,14 @@ We will make the GPD24K dataset available as soon as possible ...
 
 When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD24 dataset, we can equip AI with the ability to assess the visual aesthetic of food photos, and therefore make it possible to create several practical aesthetic-aware task scenarios in the specific domain of food photographs.
 
+| Solution | V(S_{pos}) | V(S_{neg}) |
+| :--- | :--: | :--: |
+| Best | x | x |
+| Random | x | x |
+| Worst | x | x |
+| Human (Expert) | x | x |
+
+
 ### Enhancement of food photos
 ![FoodPhotoEnhancement](https://github.com/Openning07/GPA/blob/master/FoodPhotoEnhancement_PlaceHolder.jpg "Much better than the original images, and save your time from the endless attempts with existing PS tools!")
 
