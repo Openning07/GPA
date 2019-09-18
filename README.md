@@ -31,6 +31,8 @@ When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD24 da
 | Random | x | x |
 | Worst | x | x |
 | Human (Expert) | x | x |
+| ResNet-18 + AVA | x | x |
+| ResNet-18 + GPD24K | x | x |
 
 
 ### Enhancement of food photos
