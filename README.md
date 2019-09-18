@@ -4,20 +4,22 @@ Online photography assistance, tailored for food photograph.
 For further details, please refer to our paper [[pdf](https://www.researchgate.net/profile/Kekai_Sheng3/publication/329329757_Gourmet_photography_dataset_for_aesthetic_assessment_of_food_images/links/5c0dc00c92851c39ebe1d0f9/Gourmet-photography-dataset-for-aesthetic-assessment-of-food-images.pdf)].
 
 ## Background
-![HighQualityFoodPhotosIsObvious](http://chongyangma.com/publications/gp/2018_gp_thumbnail.jpg "真.秀色可餐")
+![HighQualityFoodPhotosIsObvious](http://chongyangma.com/publications/gp/2018_gp_thumbnail.jpg "真 * 秀色可餐")
 
 ## Overview
 ### Sources of food photos
 
-
 ### Configuration of GPD24K
 
 |  | Train | Test | Overall |
-| :---: | :---: | :---: | :---: |
-| Positive | x | x | x |
-| Negative | x | x | x |
+| :------: | :------: | :------: | :------: |
+| Positive | 11,791 | 1,311 | 13,102 |
+| Negative | 9,809 | 1,089 | 10,898 |
+| Overall | 21,600 | 2,400 | 24,000 |
 
-We will make the GPD24K dataset available as soon as possible ...
+For the convenience of file transfer, we resize the images first, and then upload the resized images on Google Drive:
+ * [[Positive Partition (Resized)](https://drive.google.com/open?id=10VFCKLoEl3Qq10RiPW68SQ0HXMfXbcwS)]
+ * [[Negative Partition (Resized)](https://drive.google.com/open?id=14rwugQ2nbpQRHN5ipyWKT7bLcAhTvIJq)]
 
 ## Application of GPD24K
 ### Food Photograph Triage
