@@ -26,15 +26,18 @@ We collect food photos from both the online photo-sharing websites and from seve
 | Negative | 9,809 | 1,089 | 10,898 |
 | Overall | 21,600 | 2,400 | 24,000 |
 
-For the convenience of file transfer, we resize the images first, and then upload the resized images on Google Drive:
+For the convenience of file transfer, we resize the images first, and then upload the resized images on *Google Drive*:
  * [[Positive Partition (Resized)](https://drive.google.com/open?id=10VFCKLoEl3Qq10RiPW68SQ0HXMfXbcwS)]
  * [[Negative Partition (Resized)](https://drive.google.com/open?id=14rwugQ2nbpQRHN5ipyWKT7bLcAhTvIJq)]
+
+#### NOTE
+In order to support further research and make aesthetic-aware applications on food photos practical, we will enlarge the scale of GPD24K and enrich the information it contains (e.g., introduce some aesthetic-related attributes). Hence, your feedback means a lot to us. Let's together make GPD24K better, and create interesting applications based on it.
 
 ## Application of GPD24K
 ### Food Photograph Triage
 ![FoodPhotoTriage](https://github.com/Openning07/GPA/blob/master/TeaserOfSA2018.png "With the help of GPD24K, we can now enable AI to pick high-quality food photos automatically!")
 
-When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD24 dataset, we can equip AI with the ability to assess the visual aesthetic of food photos, and therefore make it possible to create several practical aesthetic-aware task scenarios in the specific domain of food photographs.
+When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD24K dataset, we can equip AI with the ability to assess the visual aesthetic of food photos, and therefore make it possible to create several practical aesthetic-aware task scenarios in the specific domain of food photographs.
 
 For quantitative analysis and comparisons, we conduct another generalization ability test experiment. We collect *825* food photos from *WeChat*, and invite *50* interviewees, who are qualified for the task of food image aesthetic assessment, and collect their responses on those *825* images. Based on their judgements, we can evaluate how the trained model perform on unseen food photos.
 
