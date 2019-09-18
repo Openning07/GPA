@@ -59,7 +59,7 @@ For further details and discussions of the table shown above, please refer to [[
 ### Online Food Photography Assistance
 TODO
 
-### Enhancement of food photos
+### Enhancement of food photos (Raw -> Better)
 ![FoodPhotoEnhancement](https://github.com/Openning07/GPA/blob/master/FoodPhotoEnhancement_PlaceHolder.jpg "Much better than the original images, and save your time from the endless attempts with existing PS tools!")
 
 TODO
