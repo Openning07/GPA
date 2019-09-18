@@ -1,6 +1,8 @@
 # GPA
 Online photography assistance, tailored for food photograph.
 
+To support the research and applications that are related to image aesthetic assessment on food photos and calls for aesthetic-aware visual feature, we establish the first large-scale dataset, i.e., **Gourmet Photography Dataset** (GPD24K).
+
 For further details, please refer to our paper [[pdf](https://www.researchgate.net/profile/Kekai_Sheng3/publication/329329757_Gourmet_photography_dataset_for_aesthetic_assessment_of_food_images/links/5c0dc00c92851c39ebe1d0f9/Gourmet-photography-dataset-for-aesthetic-assessment-of-food-images.pdf)].
 
 ## Background
