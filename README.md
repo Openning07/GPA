@@ -11,7 +11,7 @@ For further details, please refer to our paper [[pdf] https://www.researchgate.n
 
 ## Application of GPD24K
 ### Food Photograph Triage
-
+![FoodPhotoTriage](https://github.com/Openning07/GPA/blob/master/TeaserOfSA2018.png "With the help of GPD24K, we can now enable AI to pick high-quality food photos automatically!")
 
 ### Enhancement of food photos
 
