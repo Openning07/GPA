@@ -26,6 +26,7 @@ We will make the GPD24K dataset available as soon as possible ...
 When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD24 dataset, we can equip AI with the ability to assess the visual aesthetic of food photos, and therefore make it possible to create several practical aesthetic-aware task scenarios in the specific domain of food photographs.
 
 For quantitative analysis and comparisons, we conduct another generalization ability test experiment. We collect *825* food photos from *WeChat*, and invite *50* interviewees, who are qualified for the task of food image aesthetic assessment, and collect their responses on those *825* images. Based on their judgements, we can evaluate how the trained model perform on unseen food photos.
+
 | Solution | V(S_{pos}) | V(S_{neg}) |
 | :--- | :--: | :--: |
 | Best | x | x |
