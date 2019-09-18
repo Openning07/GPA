@@ -37,13 +37,15 @@ When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD24 da
 For quantitative analysis and comparisons, we conduct another generalization ability test experiment. We collect *825* food photos from *WeChat*, and invite *50* interviewees, who are qualified for the task of food image aesthetic assessment, and collect their responses on those *825* images. Based on their judgements, we can evaluate how the trained model perform on unseen food photos.
 
 | Solution | V(S_{pos}) | V(S_{neg}) |
-| :--- | :--: | :--: |
-| Best | x | x |
-| Random | x | x |
-| Worst | x | x |
-| Human (Expert) | x | x |
-| ResNet-18 + AVA | x | x |
-| ResNet-18 + GPD24K | x | x |
+| :--- | :-----: | :-----: |
+| Best | 75.5 | 83.9 |
+| Random | 37.3 | 62.5 |
+| Worst | 16.1 | 24.5 |
+| Human (Expert) | 72.1 | 81.0 |
+| ResNet-18 + AVA | 38.5 | 65.7 |
+| ResNet-18 + GPD24K | 61.1 | 72.5 |
+
+For further details and discussions of the table shown above, please refer to [[our paper](https://www.researchgate.net/profile/Kekai_Sheng3/publication/329329757_Gourmet_photography_dataset_for_aesthetic_assessment_of_food_images/links/5c0dc00c92851c39ebe1d0f9/Gourmet-photography-dataset-for-aesthetic-assessment-of-food-images.pdf)].
 
 ### Online Food Photography Assistance
 TODO
