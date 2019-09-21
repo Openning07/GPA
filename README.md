@@ -21,8 +21,8 @@ We collect food photos from both the online photo-sharing websites (*e.g.*, Flic
 | Overall | 21,600 | 2,400 | 24,000 |
 
 For the convenience of file transfer, we resize the images first, and then upload the resized images on *Google Drive*:
- * [[Positive Partition (Resized)](https://drive.google.com/open?id=10VFCKLoEl3Qq10RiPW68SQ0HXMfXbcwS)]
- * [[Negative Partition (Resized)](https://drive.google.com/open?id=14rwugQ2nbpQRHN5ipyWKT7bLcAhTvIJq)]
+ * [[Positive Partition (Resized)](https://drive.google.com/open?id=1hQUtgNBXijFP1ET82AazlhxQ6Rz38DgY)]
+ * [[Negative Partition (Resized)](https://drive.google.com/open?id=1vlPalmsrkHRUJ3razt4tR-V3w7FJGrqi)]
 
 ```
 ACCESS TERMS 
