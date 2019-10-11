@@ -52,12 +52,12 @@ For quantitative analysis and comparisons, we conduct another generalization abi
 | Worst | 16.1 | 24.5 |
 | Human (Expert) | 72.1 | 81.0 |
 | ResNet-18 + AVA | 38.5 | 65.7 |
-| ResNet-18 + GPD24K | 61.1 | 72.5 |
+| ResNet-18 + GPD | 61.1 | 72.5 |
 
 For further details and discussions of the table shown above, please refer to [[our paper](https://www.researchgate.net/profile/Kekai_Sheng3/publication/329329757_Gourmet_photography_dataset_for_aesthetic_assessment_of_food_images/links/5c0dc00c92851c39ebe1d0f9/Gourmet-photography-dataset-for-aesthetic-assessment-of-food-images.pdf)].
 
-### Online Food Photography Assistance
-TODO
+### Assistance in Food Image Generation
+![AssistanceInFoodImageGeneration](https://github.com/Openning07/GPA/blob/master/HelpToDiminishBadCaseGeneration.png "TODO")
 
 ### Enhancement of food photos (Raw -> Better)
 ![FoodPhotoEnhancement](https://github.com/Openning07/GPA/blob/master/FoodPhotoEnhancement_PlaceHolder.jpg "Much better than the original images, and save your time from the endless attempts with existing PS tools!")
