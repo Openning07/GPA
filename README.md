@@ -1,7 +1,7 @@
 # GPA
 Online photography assistance, tailored for food photograph.
 
-To support the research and applications that are related to image aesthetic assessment on food photos and calls for aesthetic-aware visual feature, we establish the first large-scale dataset, namely, **Gourmet Photography Dataset** (GPD24K).
+To support the research and applications that are related to image aesthetic assessment on food photos and calls for aesthetic-aware visual feature, we establish the first large-scale dataset, namely, **Gourmet Photography Dataset** (GPD).
 
 For further details, please refer to our paper [[pdf](https://www.researchgate.net/profile/Kekai_Sheng3/publication/329329757_Gourmet_photography_dataset_for_aesthetic_assessment_of_food_images/links/5c0dc00c92851c39ebe1d0f9/Gourmet-photography-dataset-for-aesthetic-assessment-of-food-images.pdf)].
 
@@ -12,7 +12,7 @@ For further details, please refer to our paper [[pdf](https://www.researchgate.n
 ### Sources of food photos
 We collect food photos from both the online photo-sharing websites (*e.g.*, Flickr, Pinterest, 500px, Pexels) and from several existing food categorization benchmarks (*e.g.*, Food-101, [[ChineseFoodNet](https://sites.google.com/view/chinesefoodnet/)]).
 
-### Configuration of GPD24K
+### Configuration of GPD
 
 |  | Train | Test | Overall |
 | :------: | :------: | :------: | :------: |
@@ -26,7 +26,7 @@ For the convenience of file transfer, we resize the images first, and then uploa
 
 ```
 ACCESS TERMS 
-Researcher has requested permission to use the GPD24K.
+Researcher has requested permission to use the GPD.
 In exchange for such permission, Researcher hereby agrees to the following terms and conditions:
 1. Researcher shall use the Database only for non-commercial research and educational purposes.
 2. Researcher may provide research associates and colleagues with access to the Database provided that they first agree to be bound by these terms and conditions.
@@ -35,13 +35,13 @@ In exchange for such permission, Researcher hereby agrees to the following terms
 ```
 
 #### NOTE
-In order to support further research and make aesthetic-aware applications on food photos practical, we will enlarge the scale of GPD24K and enrich the information it contains (e.g., introduce some aesthetic-related attributes). Hence, your feedback means a lot to us. Let's together make GPD24K better, and create interesting applications based on it.
+In order to support further research and make aesthetic-aware applications on food photos practical, we will enlarge the scale of GPD and enrich the information it contains (e.g., introduce some aesthetic-related attributes). Hence, your feedback means a lot to us. Let's together make GPD better, and create interesting applications based on it.
 
-## Application of GPD24K
+## Application of GPD
 ### Food Photograph Triage
-![FoodPhotoTriage](https://github.com/Openning07/GPA/blob/master/TeaserOfSA2018.png "With the help of GPD24K, we can now enable AI to pick high-quality food photos automatically!")
+![FoodPhotoTriage](https://github.com/Openning07/GPA/blob/master/TeaserOfSA2018.png "With the help of GPD, we can now enable AI to pick high-quality food photos automatically!")
 
-When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD24K dataset, we can equip AI with the ability to assess the visual aesthetic of food photos, and therefore make it possible to create several practical aesthetic-aware task scenarios in the specific domain of food photographs.
+When we train a CNN model (*e.g.*, VGG-16 or ResNet-18) on our proposed GPD dataset, we can equip AI with the ability to assess the visual aesthetic of food photos, and therefore make it possible to create several practical aesthetic-aware task scenarios in the specific domain of food photographs.
 
 For quantitative analysis and comparisons, we conduct another generalization ability test experiment. We collect *825* food photos from *WeChat*, and invite *50* interviewees, who are qualified for the task of food image aesthetic assessment, and collect their responses on those *825* images. Based on their judgements, we can evaluate how the trained model perform on unseen food photos.
 
