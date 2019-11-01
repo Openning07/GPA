@@ -75,6 +75,15 @@ If you find this useful in your research, please consider citing:
   year={2018},
   organization={ACM}
 }
+
+@inproceedings{sheng2018attention,
+  title={Attention-based multi-patch aggregation for image aesthetic assessment},
+  author={Sheng, Kekai and Dong, Weiming and Ma, Chongyang and Mei, Xing and Huang, Feiyue and Hu, Bao-Gang},
+  booktitle={2018 ACM Multimedia Conference on Multimedia Conference},
+  pages={879--886},
+  year={2018},
+  organization={ACM}
+}
 ```
 
 ## Concate & Feedback
