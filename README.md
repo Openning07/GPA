@@ -23,6 +23,11 @@ We collect food photos from both the online photo-sharing websites (*e.g.*, Flic
 For the convenience of file transfer, we resize the images first, and then upload the resized images on *Google Drive*:
  * [[Positive Partition (Resized)](https://drive.google.com/open?id=1hQUtgNBXijFP1ET82AazlhxQ6Rz38DgY)]
  * [[Negative Partition (Resized)](https://drive.google.com/open?id=1vlPalmsrkHRUJ3razt4tR-V3w7FJGrqi)]
+ 
+Or you can download it on *jianguoyun.com*![JianGuoYun](https://www.jianguoyun.com/static/images/logo.png):
+ * [[Negative Partition (Resized)](https://www.jianguoyun.com/p/DXzu-IcQwO3uBxiOwpEC)]
+ * [[Positive Partition Part1 (Resized)](https://www.jianguoyun.com/p/DQPyh9wQwO3uBxiew5EC)]
+ * [[Positive Partition Part2 (Resized)](https://www.jianguoyun.com/p/DfuVJcEQwO3uBxigw5EC)]
 
 ```
 ACCESS TERMS 
