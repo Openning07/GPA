@@ -72,13 +72,12 @@ TODO
 ## Citation
 If you find this useful in your research, please consider citing:
 ```
-@inproceedings{sheng2018gourmet,
-  title={Gourmet photography dataset for aesthetic assessment of food images},
-  author={Sheng, Kekai and Dong, Weiming and Huang, Haibin and Ma, Chongyang and Hu, Bao-Gang},
-  booktitle={SIGGRAPH Asia 2018 Technical Briefs},
-  pages={20},
-  year={2018},
-  organization={ACM}
+@inproceedings{sheng2020learning,
+  title={Learning to Assess Visual Aesthetics of Food Images},
+  author={Sheng, Kekai and Dong, Weiming and Huang, Haibin and Chai, Menglei and Zhang, Yong and Ma, Chongyang and Hu, Bao-Gang},
+  booktitle={Computational Visual Media},
+  year={2020},
+  organization={Springer}
 }
 
 @inproceedings{sheng2018attention,
