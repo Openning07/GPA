@@ -72,12 +72,13 @@ TODO
 ## Citation
 If you find this useful in your research, please consider citing:
 ```
-@inproceedings{sheng2020learning,
-  title={Learning to Assess Visual Aesthetics of Food Images},
+@article{sheng2020learning,
+  title={Learning to assess visual aesthetics of food images},
   author={Sheng, Kekai and Dong, Weiming and Huang, Haibin and Chai, Menglei and Zhang, Yong and Ma, Chongyang and Hu, Bao-Gang},
-  booktitle={Computational Visual Media},
+  journal={Computational Visual Media},
+  pages={1--14},
   year={2020},
-  organization={Springer}
+  publisher={Springer}
 }
 
 @inproceedings{sheng2018attention,
